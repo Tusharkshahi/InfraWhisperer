@@ -1,0 +1,38 @@
+# Archestra setup & demo scripts (local only)
+ARCHESTRA_SETUP_GUIDE.md
+DEMO_SCRIPT.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Docker
+demo-pg-data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env files
+.env
+*.env.local
+
+# Logs
+*.log
+
+# Node (if any)
+node_modules/

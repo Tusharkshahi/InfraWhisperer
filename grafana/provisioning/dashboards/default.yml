@@ -1,0 +1,9 @@
+apiVersion: 1
+
+providers:
+  - name: "InfraWhisperer"
+    orgId: 1
+    folder: "InfraWhisperer"
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
