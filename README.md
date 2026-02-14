@@ -138,7 +138,7 @@ All servers feature:
 ### 1. Clone & Start
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Tusharkshahi/InfraWhisperer
 cd infrawhisperer
 docker-compose up -d
 ```
